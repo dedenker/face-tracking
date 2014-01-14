@@ -8,6 +8,9 @@ Date: 29 December 2013
 Discription:
 Tracking a face with OpenCV (sample facedetect.py) and correcting the camera view (example source used from: http://blog.aicookbook.com/2010/06/building-a-face-tracking-robot-headroid1-with-python-in-an-afternoon/).
 
+Reminder:
+The facedetection script uses the default face cascade file, so you perhaps have to adjust the location of it.
+
 The software is:
 -Ubuntu 10.04 x64
 -OpenCV 2.4.6
